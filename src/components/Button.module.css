@@ -1,0 +1,16 @@
+/* buttons  */
+
+.btn {
+  width: 10rem;
+  height: 4rem;
+  border: none;
+  margin-right: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  background: cyan;
+  box-shadow: 0 3px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover {
+  background: lightcyan;
+}
